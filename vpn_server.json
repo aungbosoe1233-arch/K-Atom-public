@@ -1,1 +1,1 @@
-{"name":"Atom 500Mb 1","link":"ssh:\/\/danaelssh-kpvpn:kpvpn@d37bawnvqx75hf.cloudfront.net:80?payload=GET+%2F+HTTP%2F1.1%5Bcrlf%5DHost%3A+%5Bhost%5D%5Bcrlf%5DConnection%3A+Upgrade%5Bcrlf%5DKPVPN%5Bcrlf%5DUser-Agent%3A+%5Bua%5D%5Bcrlf%5DUpgrade%3A+websocket%5Bcrlf%5D%5Bcrlf%5D&proxy=99.86.18.20%3A80#Atom%20500Mb%201"}
+{"name":"Atom 500mb 1 | Server 1","link":"vless:\/\/f4c5605a-8424-441e-b23d-d6384d012c28@kpatom.kpvpn.shop:80?encryption=none&type=ws&host=dcm4kwis2exkw.cloudfront.net&headerType=none&path=%2F#Atom%20500Mb%203"}
